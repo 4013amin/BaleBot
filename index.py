@@ -21,16 +21,13 @@ def load_data():
         users_data = {}
 
 def save_data():
-    """ذخیره داده‌های حافظه در فایل"""
     global users_data
     try:
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(users_data, f, ensure_ascii=False, indent=4)
-        # print("Data saved to file.") # برای جلوگیری از شلوغی ترمینال، این خط را کامنت کردم
     except Exception as e:
         print(f"Error saving data: {e}")
 
-# بارگذاری اولیه داده‌ها
 load_data()
 
 bot = Bot(token=BOT_TOKEN)
@@ -64,10 +61,8 @@ async def on_message(message: Message):
     if not user_id:
         return
 
-    # اگر کاربر جدید است، ایجادش کن
     if user_id not in users_data:
         users_data[user_id] = {"tasks": []}
-        # ذخیره فوری برای اطمینان
         save_data()
 
     try:
