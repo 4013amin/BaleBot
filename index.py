@@ -1,6 +1,6 @@
 import json
 import os
-from bale.bot import Bot, Message
+from bale import Bot, Message
 
 # توکن بات خود را اینجا قرار دهید
 BOT_TOKEN = "1046992923:wz1DSSvbJizZp8EPgNWjSCVHoxtMMztsK9Q"
@@ -46,7 +46,7 @@ def is_user_message(message):
         sender = message.sender
     elif hasattr(message, 'from_user') and message.from_user:
         sender = message.from_user
-    
+
     if sender:
         if hasattr(sender, 'is_bot'):
             return not sender.is_bot
@@ -71,7 +71,7 @@ async def on_message(message: Message):
     # اطمینان از وجود رکورد برای کاربر
     if user_id not in users_data:
         users_data[user_id] = {"tasks": {}}
-    
+
     # دریافت متن پیام
     raw_content = message.content if message.content else ""
     content = raw_content.strip().lower()
@@ -80,15 +80,15 @@ async def on_message(message: Message):
     # اما در Bale معمولاً دکمه‌ها به صورت جداگانه هندل می‌شوند یا در content می‌آیند
     # در اینجا فرض می‌کنیم کاربر دکمه را زده و پیام جدیدی ارسال می‌شود یا از callback_query استفاده می‌کنیم.
     # برای سادگی در این نسخه، از دکمه‌های Inline استفاده می‌کنیم که وقتی زده شوند، یک پیام callback ایجاد می‌کنند.
-    
+
     # نکته مهم: در Bale، دکمه‌های Inline وقتی کلیک شوند، معمولاً به صورت یک پیام خاص یا callback پردازش می‌شوند.
     # برای سادگی، ما از دکمه‌هایی استفاده می‌کنیم که وقتی کلیک شوند، متن خاصی را به بات می‌فرستند یا از on_callback_query استفاده می‌کنیم.
     # اما Bale.py گاهی دکمه‌ها را به صورت متن معمولی پردازش نمی‌کند.
     # بیایید از رویکرد استاندارد استفاده کنیم: دکمه‌ها را ارسال می‌کنیم و برای کلیک روی آن‌ها، تابع جداگانه داریم.
-    
+
     # اگر پیام دکمه نیست (یعنی متن معمولی است):
     if not hasattr(message, 'callback_query'):
-        
+
         if content == "/start":
             await message.reply(
                 "سلام! 👋\n"
@@ -111,10 +111,10 @@ async def on_message(message: Message):
             # تولید ID یکتا برای کار (زمان فعلی)
             import time
             task_id = str(int(time.time()))
-            
+
             users_data[user_id]["tasks"][task_id] = {"text": task_text, "done": False}
             save_data()
-            
+
             # بازگرداندن پیام موفقیت
             await message.reply(f"✅ کار '{task_text}' با شناسه {task_id} اضافه شد.")
             return
@@ -127,13 +127,13 @@ async def on_message(message: Message):
 
             msg = "📋 لیست کارهای شما:\n\n"
             buttons = []
-            
+
             for task_id, task in tasks.items():
                 status = "✅ انجام شده" if task["done"] else "⬜ انجام نشده"
                 msg += f"ID: {task_id}\n"
                 msg += f"متن: {task['text']}\n"
                 msg += f"وضعیت: {status}\n\n"
-                
+
                 # اضافه کردن دکمه‌های Inline برای هر کار
                 # Bale از InlineButton استفاده می‌کند
                 # دکمه انجام/انجام نشدن
@@ -153,14 +153,14 @@ async def on_message(message: Message):
             # توجه: در Bale.py برای ارسال دکمه، از پارامتر reply_markup یا inline_keyboard استفاده می‌شود
             # اما Bale.py گاهی پیچیده است. بیایید از روش ساده‌تر استفاده کنیم:
             # ارسال متن و سپس دکمه‌ها
-            
+
             # نکته: Bale.py استاندارد Inline Button را کمی متفاوت هندل می‌کند.
             # برای اطمینان، از روش زیر استفاده می‌کنیم:
-            
+
             # اگر Bale.py شما از inline_keyboard پشتیبانی می‌کند:
             try:
                 from bale.bot import InlineKeyboardMarkup, InlineKeyboardButton
-                
+
                 keyboard = []
                 for task_id, task in tasks.items():
                     action_text = "انجام شد" if not task["done"] else "لغو انجام"
@@ -169,13 +169,13 @@ async def on_message(message: Message):
                         InlineKeyboardButton(text="حذف", callback_data=f"delete_{task_id}")
                     ]
                     keyboard.append(row)
-                
+
                 markup = InlineKeyboardMarkup(keyboard)
                 await message.reply(msg, reply_markup=markup)
             except Exception as e:
                 print(f"Error creating buttons: {e}")
                 await message.reply(msg)
-            
+
             return
 
         elif content.startswith("/del "):
@@ -206,20 +206,20 @@ async def on_message(message: Message):
         callback_data = message.callback_query
         if not callback_data:
             return
-            
+
         # داده‌های دکمه
         data = callback_data
         # در Bale.py، callback_data معمولاً به صورت رشته است
         # ما باید تشخیص دهیم کدام دکمه زده شده
-        
+
         # نکته: در Bale.py، وقتی دکمه کلیک می‌شود، message.callback_query مقدار True یا رشته داده را برمی‌گرداند
         # اما ساختار دقیق بسته به نسخه کتابخانه متفاوت است.
         # بیایید فرض کنیم message.content شامل داده‌ای است که ما در callback_data فرستادیم
         # یا بهتر، از رویه استاندارد Bale استفاده کنیم.
-        
+
         # در Bale.py، وقتی دکمه کلیک می‌شود، message.content برابر با callback_data است
         # پس ما می‌توانیم message.content را چک کنیم اگر callback_query وجود دارد
-        
+
         if message.content.startswith("toggle_"):
             task_id = message.content.replace("toggle_", "")
             if task_id in users_data[user_id]["tasks"]:
@@ -228,7 +228,7 @@ async def on_message(message: Message):
                 await message.reply(f"✅ وضعیت کار به‌روز شد.")
             else:
                 await message.reply("❌ خطا در به‌روزرسانی.")
-                
+
         elif message.content.startswith("delete_"):
             task_id = message.content.replace("delete_", "")
             if task_id in users_data[user_id]["tasks"]:
@@ -237,7 +237,8 @@ async def on_message(message: Message):
                 await message.reply(f"🗑️ کار '{removed['text']}' حذف شد.")
             else:
                 await message.reply("❌ خطا در حذف.")
-                
+
+
 
 if __name__ == "__main__":
     print("Bot is running...")
