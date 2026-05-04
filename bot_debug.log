@@ -1,0 +1,717 @@
+2026-05-05 00:15:43,610 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:15:43,610 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:15:43,611 - INFO - ==================================================
+2026-05-05 00:15:43,611 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:15:43,611 - INFO - ==================================================
+2026-05-05 00:15:43,985 - INFO - 📨 پیام جدید از کاربر 1837159381: None
+2026-05-05 00:15:43,985 - WARNING - پیام بدون محتوا
+2026-05-05 00:15:57,666 - INFO - 📨 پیام جدید از کاربر 1837159381: /start
+2026-05-05 00:15:57,667 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:15:57,667 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:15:59,968 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:15:59,968 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:16:04,571 - INFO - 🔘 کلیک روی دکمه upload_contacts از کاربر 1837159381
+2026-05-05 00:16:04,572 - INFO - درخواست آپلود فایل مخاطبین
+2026-05-05 00:16:22,447 - INFO - 📨 پیام جدید از کاربر 1837159381: None
+2026-05-05 00:16:22,447 - WARNING - پیام بدون محتوا
+2026-05-05 00:16:46,389 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:16:46,389 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:17:31,149 - INFO - 🔘 کلیک روی دکمه upload_contacts از کاربر 1837159381
+2026-05-05 00:17:31,149 - INFO - درخواست آپلود فایل مخاطبین
+2026-05-05 00:17:38,644 - INFO - 📨 پیام جدید از کاربر 1837159381: None
+2026-05-05 00:17:38,644 - WARNING - پیام بدون محتوا
+2026-05-05 00:19:32,167 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:19:32,168 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:19:32,168 - INFO - ==================================================
+2026-05-05 00:19:32,168 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:19:32,168 - INFO - ==================================================
+2026-05-05 00:19:32,549 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:19:32,549 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:19:32,550 - WARNING - پیام بدون محتوا و بدون فایل
+2026-05-05 00:19:56,668 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:19:56,669 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:19:56,669 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:19:58,265 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:19:58,265 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:19:58,266 - WARNING - پیام بدون محتوا و بدون فایل
+2026-05-05 00:20:00,426 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:20:00,426 - INFO - رفتن به منوی ارسال
+2026-05-05 00:20:03,103 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:20:03,103 - INFO - رفتن به منوی اصلی
+2026-05-05 00:20:04,355 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:20:04,355 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:20:06,823 - INFO - 🔘 کلیک روی دکمه list_phones از کاربر 1837159381
+2026-05-05 00:20:06,823 - INFO - درخواست نمایش لیست مخاطبین
+2026-05-05 00:20:06,823 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:20:06,824 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:20:10,945 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:20:10,945 - INFO - درخواست افزودن شماره جدید
+2026-05-05 00:20:15,202 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:20:15,202 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:20:18,825 - INFO - 🔘 کلیک روی دکمه list_phones از کاربر 1837159381
+2026-05-05 00:20:18,825 - INFO - درخواست نمایش لیست مخاطبین
+2026-05-05 00:20:18,825 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:20:18,826 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:20:21,451 - INFO - 🔘 کلیک روی دکمه upload_contacts از کاربر 1837159381
+2026-05-05 00:20:21,452 - INFO - درخواست آپلود فایل مخاطبین
+2026-05-05 00:20:29,443 - INFO - وضعیت فعلی کاربر 1837159381: waiting_contacts_file
+2026-05-05 00:20:29,443 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:20:29,444 - INFO - 🔄 در حالت waiting_contacts_file
+2026-05-05 00:20:29,444 - INFO - 📁 فایل دریافت شد: Test.txt
+2026-05-05 00:20:29,444 - INFO - 🔄 شروع پردازش فایل مخاطبین برای کاربر 1837159381
+2026-05-05 00:20:29,559 - ERROR - خطا در پردازش فایل: 'Message' object has no attribute 'edit_text'
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 557, in process_contacts_file_upload
+    await status_msg.edit_text("📥 در حال دانلود فایل...")
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:20:29,560 - ERROR - Exception in on_message Ignored
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 557, in process_contacts_file_upload
+    await status_msg.edit_text("📥 در حال دانلود فایل...")
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 274, in run_event
+    await core(*args, **kwargs)
+  File "/home/delta/Desktop/Python/Tamrin.py", line 241, in on_message
+    await process_contacts_file_upload(message)
+  File "/home/delta/Desktop/Python/Tamrin.py", line 647, in process_contacts_file_upload
+    await status_msg.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:22:31,019 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:22:31,020 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:22:31,020 - INFO - ==================================================
+2026-05-05 00:22:31,020 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:22:31,020 - INFO - ==================================================
+2026-05-05 00:22:31,522 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:22:31,523 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:22:31,523 - WARNING - پیام بدون محتوا و بدون فایل
+2026-05-05 00:22:35,131 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:22:35,131 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:22:35,131 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:22:36,800 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:22:36,800 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:22:38,412 - INFO - 🔘 کلیک روی دکمه upload_contacts از کاربر 1837159381
+2026-05-05 00:22:38,412 - INFO - درخواست آپلود فایل مخاطبین
+2026-05-05 00:22:46,519 - INFO - وضعیت فعلی کاربر 1837159381: waiting_contacts_file
+2026-05-05 00:22:46,519 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:22:46,519 - INFO - 🔄 در حالت waiting_contacts_file
+2026-05-05 00:22:46,520 - INFO - 📁 فایل دریافت شد: Test.txt
+2026-05-05 00:22:46,520 - INFO - 🔄 شروع پردازش فایل مخاطبین برای کاربر 1837159381
+2026-05-05 00:22:47,024 - INFO - دریافت فایل با ID: 1837159381:-614144374250594557:0:6b77b43a5d88965b1a9ec6f7595b78a8, نام: Test.txt
+2026-05-05 00:22:47,235 - INFO - Response from getFile: 200
+2026-05-05 00:22:47,516 - INFO - دانلود فایل از: https://tapi.bale.ai/file/bot1046992923:wz1DSSvbJizZp8EPgNWjSCVHoxtMMztsK9Q/1837159381:-614144374250594557:0:6b77b43a5d88965b1a9ec6f7595b78a8
+2026-05-05 00:22:47,775 - INFO - محتوای فایل دریافت شد: 136 کاراکتر
+2026-05-05 00:22:48,061 - INFO - تعداد خطوط فایل: 7
+2026-05-05 00:22:48,062 - INFO - ✅ خط 1: شماره 09123456789 - برچسب علی رضایی
+2026-05-05 00:22:48,062 - INFO - ✅ خط 2: شماره 09351234567 - برچسب مریم کریمی
+2026-05-05 00:22:48,062 - INFO - ✅ خط 3: شماره 09214567890 - برچسب رضا احمدی
+2026-05-05 00:22:48,062 - INFO - ✅ خط 4: شماره 09012345678 - برچسب سارا محمدی
+2026-05-05 00:22:48,063 - INFO - ✅ خط 5: شماره 09901234567 - برچسب محمد حسینی
+2026-05-05 00:22:48,063 - INFO - ✅ خط 6: شماره 09361234567 - برچسب زهرا کریمی
+2026-05-05 00:22:48,063 - INFO - 6 شماره معتبر یافت شد
+2026-05-05 00:22:48,331 - INFO - 📝 ذخیره 6 شماره برای کاربر 1837159381
+2026-05-05 00:22:48,349 - INFO - ✅ 6 شماره با موفقیت ذخیره شد
+2026-05-05 00:22:48,661 - INFO - پردازش فایل با موفقیت انجام شد. 6 مخاطب ذخیره شد.
+2026-05-05 00:23:04,575 - INFO - 🔘 کلیک روی دکمه list_phones از کاربر 1837159381
+2026-05-05 00:23:04,575 - INFO - درخواست نمایش لیست مخاطبین
+2026-05-05 00:23:04,575 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:23:04,576 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:23:11,492 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:23:11,492 - INFO - رفتن به منوی اصلی
+2026-05-05 00:23:13,759 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:23:13,760 - INFO - رفتن به منوی ارسال
+2026-05-05 00:23:16,312 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:23:16,312 - INFO - درخواست ارسال به مخاطبین ذخیره شده
+2026-05-05 00:23:16,313 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:23:16,313 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:23:18,296 - INFO - 🔘 کلیک روی دکمه sel_4 از کاربر 1837159381
+2026-05-05 00:23:18,296 - INFO - اضافه کردن مخاطب 4 به انتخاب
+2026-05-05 00:23:18,296 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:23:18,297 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:23:18,297 - ERROR - ❌ خطا در callback: 'Message' object has no attribute 'edit_text'
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 515, in on_callback
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:23:20,615 - INFO - 🔘 کلیک روی دکمه sel_5 از کاربر 1837159381
+2026-05-05 00:23:20,616 - INFO - اضافه کردن مخاطب 5 به انتخاب
+2026-05-05 00:23:20,616 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:23:20,616 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:23:20,616 - ERROR - ❌ خطا در callback: 'Message' object has no attribute 'edit_text'
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 515, in on_callback
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:23:21,273 - INFO - 🔘 کلیک روی دکمه sel_6 از کاربر 1837159381
+2026-05-05 00:23:21,273 - INFO - اضافه کردن مخاطب 6 به انتخاب
+2026-05-05 00:23:21,274 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:23:21,274 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:23:21,275 - ERROR - ❌ خطا در callback: 'Message' object has no attribute 'edit_text'
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 515, in on_callback
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:31:58,725 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:31:58,726 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:31:58,726 - INFO - ==================================================
+2026-05-05 00:31:58,726 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:31:58,726 - INFO - ==================================================
+2026-05-05 00:32:24,400 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:32:24,401 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:32:24,401 - INFO - ==================================================
+2026-05-05 00:32:24,401 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:32:24,401 - INFO - ==================================================
+2026-05-05 00:32:30,453 - INFO - 🔘 کلیک روی دکمه sel_6 از کاربر 1837159381
+2026-05-05 00:32:30,453 - INFO - اضافه کردن مخاطب 6 به انتخاب
+2026-05-05 00:32:30,453 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:32:30,453 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:32:30,453 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:32:30,453 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:32:30,454 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:32:30,454 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:32:44,509 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:32:44,509 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:32:52,070 - ERROR - Exception in on_message Ignored
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/connector.py", line 1173, in _create_direct_connection
+    hosts = await asyncio.shield(host_resolved)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/connector.py", line 884, in _resolve_host
+    addrs = await self._resolver.resolve(host, port, family=self._family)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/resolver.py", line 33, in resolve
+    infos = await self._loop.getaddrinfo(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/base_events.py", line 867, in getaddrinfo
+    return await self.run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 123, in request
+    async with self.__session.request(method=method, url=url, **kwargs) as original_response:
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/client.py", line 1187, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/client.py", line 574, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/connector.py", line 544, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/connector.py", line 911, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/aiohttp/connector.py", line 1187, in _create_direct_connection
+    raise ClientConnectorError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host tapi.bale.ai:443 ssl:default [Temporary failure in name resolution]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 274, in run_event
+    await core(*args, **kwargs)
+  File "/home/delta/Desktop/Python/Tamrin.py", line 433, in on_message
+    await message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 149, in request
+    raise NetworkError(str(error))
+bale.error.NetworkError: Cannot connect to host tapi.bale.ai:443 ssl:default [Temporary failure in name resolution]
+2026-05-05 00:33:41,963 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:33:41,963 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:33:41,963 - INFO - ==================================================
+2026-05-05 00:33:41,963 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:33:41,963 - INFO - ==================================================
+2026-05-05 00:33:42,286 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:33:42,287 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:33:57,491 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:33:57,492 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:33:59,071 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:34:01,123 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:34:01,124 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:34:03,320 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:34:04,879 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:34:04,879 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:34:04,880 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:34:12,916 - INFO - 🔘 کلیک روی دکمه sel_3 از کاربر 1837159381
+2026-05-05 00:34:12,917 - INFO - اضافه کردن مخاطب 3 به انتخاب
+2026-05-05 00:34:12,925 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:34:12,926 - INFO - 📋 8 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:34:25,759 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:34:25,760 - INFO - 🔍 دریافت شماره با ID 3
+2026-05-05 00:34:25,760 - INFO - ✅ شماره 09362629118 یافت شد
+2026-05-05 00:34:39,576 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:34:39,577 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:34:39,577 - INFO - 📝 متن دریافت شد
+2026-05-05 00:34:46,132 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:34:46,243 - INFO - 📤 ارسال text به 09362629118
+2026-05-05 00:34:46,497 - ERROR - ❌ خطا در ارسال به 09362629118: Bad Request: no such group or user
+2026-05-05 00:34:59,743 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:37:05,618 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:37:05,618 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:37:08,904 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:37:45,128 - INFO - وضعیت فعلی کاربر 1146812002: None
+2026-05-05 00:37:45,128 - INFO - کاربر 1146812002 ربات را استارت کرد
+2026-05-05 00:38:11,240 - INFO - وضعیت فعلی کاربر 1146812002: None
+2026-05-05 00:38:11,240 - INFO - کاربر 1146812002 ربات را استارت کرد
+2026-05-05 00:38:23,714 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:39:32,386 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:39:32,387 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:39:32,388 - INFO - ==================================================
+2026-05-05 00:39:32,388 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:39:32,388 - INFO - ==================================================
+2026-05-05 00:39:32,696 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:39:32,696 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:39:32,697 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:39:32,697 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:39:32,697 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:39:32,698 - INFO - 📝 ذخیره شماره 989928665104 برای کاربر 1837159381
+2026-05-05 00:39:32,715 - INFO - ✅ شماره 989928665104 ذخیره شد
+2026-05-05 00:39:32,716 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:39:32,716 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:39:32,909 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 490, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:39:38,455 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:39:40,976 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:39:40,976 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:39:43,300 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:39:44,543 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:39:47,055 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:39:47,055 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:39:47,055 - INFO - 📝 ذخیره شماره 989928665104 برای کاربر 1837159381
+2026-05-05 00:39:47,071 - INFO - ✅ شماره 989928665104 ذخیره شد
+2026-05-05 00:39:50,499 - INFO - 🔘 کلیک روی دکمه list_phones از کاربر 1837159381
+2026-05-05 00:39:50,499 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:39:50,500 - INFO - 📋 10 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:39:56,662 - INFO - 🔘 کلیک روی دکمه delete_phones از کاربر 1837159381
+2026-05-05 00:39:56,662 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:39:56,662 - INFO - 📋 10 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:39:59,209 - INFO - 🔘 کلیک روی دکمه del_11 از کاربر 1837159381
+2026-05-05 00:39:59,209 - INFO - 🔍 دریافت شماره با ID 11
+2026-05-05 00:39:59,210 - INFO - ✅ شماره 989928665104 یافت شد
+2026-05-05 00:39:59,210 - INFO - 🗑️ حذف مخاطب با ID 11
+2026-05-05 00:39:59,223 - INFO - ✅ مخاطب با ID 11 حذف شد
+2026-05-05 00:40:02,327 - INFO - 🔘 کلیک روی دکمه list_phones از کاربر 1837159381
+2026-05-05 00:40:02,328 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:40:02,328 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:40:10,402 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:40:12,175 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:40:14,129 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:40:14,130 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:40:14,131 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:40:16,455 - INFO - 🔘 کلیک روی دکمه sel_10 از کاربر 1837159381
+2026-05-05 00:40:16,455 - INFO - اضافه کردن مخاطب 10 به انتخاب
+2026-05-05 00:40:16,455 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:40:16,455 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:40:18,710 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:40:18,710 - INFO - 🔍 دریافت شماره با ID 10
+2026-05-05 00:40:18,711 - INFO - ✅ شماره 989928665104 یافت شد
+2026-05-05 00:40:29,759 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:40:29,759 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:40:29,759 - INFO - 📝 متن دریافت شد
+2026-05-05 00:40:31,772 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:40:31,908 - INFO - 📤 ارسال text به 989928665104
+2026-05-05 00:40:32,178 - ERROR - ❌ خطا در ارسال به 989928665104: Bad Request: no such group or user
+2026-05-05 00:41:27,644 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:41:30,395 - INFO - 🔘 کلیک روی دکمه delete_phones از کاربر 1837159381
+2026-05-05 00:41:30,395 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:41:30,396 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:41:31,896 - INFO - 🔘 کلیک روی دکمه del_10 از کاربر 1837159381
+2026-05-05 00:41:31,896 - INFO - 🔍 دریافت شماره با ID 10
+2026-05-05 00:41:31,897 - INFO - ✅ شماره 989928665104 یافت شد
+2026-05-05 00:41:31,897 - INFO - 🗑️ حذف مخاطب با ID 10
+2026-05-05 00:41:31,917 - INFO - ✅ مخاطب با ID 10 حذف شد
+2026-05-05 00:41:34,147 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:41:37,735 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:41:37,736 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:41:37,736 - INFO - 📝 ذخیره شماره 09928665104 برای کاربر 1837159381
+2026-05-05 00:41:37,756 - INFO - ✅ شماره 09928665104 ذخیره شد
+2026-05-05 00:41:40,106 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:41:42,090 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:41:44,283 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:41:44,284 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:41:44,284 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:41:46,077 - INFO - 🔘 کلیک روی دکمه sel_12 از کاربر 1837159381
+2026-05-05 00:41:46,078 - INFO - اضافه کردن مخاطب 12 به انتخاب
+2026-05-05 00:41:46,078 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:41:46,078 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:41:49,161 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:41:49,161 - INFO - 🔍 دریافت شماره با ID 12
+2026-05-05 00:41:49,161 - INFO - ✅ شماره 09928665104 یافت شد
+2026-05-05 00:41:57,544 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:41:57,544 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:41:57,544 - INFO - 📝 متن دریافت شد
+2026-05-05 00:41:59,694 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:41:59,829 - INFO - 📤 ارسال text به 09928665104
+2026-05-05 00:42:00,057 - ERROR - ❌ خطا در ارسال به 09928665104: Bad Request: no such group or user
+2026-05-05 00:44:01,040 - INFO - وضعیت فعلی کاربر 1146812002: None
+2026-05-05 00:44:01,041 - INFO - کاربر 1146812002 ربات را استارت کرد
+2026-05-05 00:44:28,113 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:44:28,113 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:44:30,148 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:44:32,003 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:44:32,003 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:44:32,003 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:44:34,418 - INFO - 🔘 کلیک روی دکمه sel_12 از کاربر 1837159381
+2026-05-05 00:44:34,418 - INFO - اضافه کردن مخاطب 12 به انتخاب
+2026-05-05 00:44:34,418 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:44:34,418 - INFO - 📋 9 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:44:36,235 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:44:36,235 - INFO - 🔍 دریافت شماره با ID 12
+2026-05-05 00:44:36,235 - INFO - ✅ شماره 09928665104 یافت شد
+2026-05-05 00:44:42,573 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:44:42,573 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:44:42,573 - INFO - 📝 متن دریافت شد
+2026-05-05 00:44:43,881 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:44:44,180 - INFO - 📤 ارسال text به 09928665104
+2026-05-05 00:44:44,433 - ERROR - ❌ خطا در ارسال به 09928665104: Bad Request: no such group or user
+2026-05-05 00:46:08,789 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:46:08,805 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:46:08,805 - INFO - ==================================================
+2026-05-05 00:46:08,805 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:46:08,805 - INFO - ==================================================
+2026-05-05 00:46:09,283 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:46:15,873 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:46:15,873 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:46:17,607 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:46:19,071 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:46:45,598 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:46:45,598 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:46:45,599 - INFO - 📝 ذخیره شماره 09928665104 برای کاربر 1837159381
+2026-05-05 00:46:45,613 - INFO - ✅ شماره 09928665104 ذخیره شد
+2026-05-05 00:46:58,658 - INFO - وضعیت فعلی کاربر 1146812002: None
+2026-05-05 00:46:58,658 - INFO - کاربر 1146812002 ربات را استارت کرد
+2026-05-05 00:47:05,951 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:47:07,196 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:47:08,654 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:47:08,655 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:47:08,655 - INFO - 📋 1 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:47:11,690 - INFO - 🔘 کلیک روی دکمه select_all از کاربر 1837159381
+2026-05-05 00:47:11,690 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:47:11,691 - INFO - 📋 1 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:47:14,184 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:47:14,185 - INFO - 🔍 دریافت شماره با ID 1
+2026-05-05 00:47:14,185 - INFO - ✅ شماره 09928665104 یافت شد
+2026-05-05 00:47:19,833 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:47:19,833 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:47:19,833 - INFO - 📝 متن دریافت شد
+2026-05-05 00:47:21,446 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:47:21,554 - INFO - 📤 ارسال text به 09928665104
+2026-05-05 00:47:21,758 - ERROR - ❌ خطا در ارسال به 09928665104: Bad Request: no such group or user
+2026-05-05 00:50:49,933 - INFO - وضعیت فعلی کاربر 1410294763: None
+2026-05-05 00:50:49,933 - INFO - کاربر 1410294763 ربات را استارت کرد
+2026-05-05 00:50:58,016 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1410294763
+2026-05-05 00:51:18,969 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:51:20,575 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:51:29,657 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:51:29,658 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:51:29,658 - INFO - 📝 ذخیره شماره 09052278519 برای کاربر 1837159381
+2026-05-05 00:51:29,675 - INFO - ✅ شماره 09052278519 ذخیره شد
+2026-05-05 00:51:31,729 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:51:35,314 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:51:37,878 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:51:40,943 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:51:43,743 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:51:43,743 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:51:43,744 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:51:45,898 - INFO - 🔘 کلیک روی دکمه sel_2 از کاربر 1837159381
+2026-05-05 00:51:45,898 - INFO - اضافه کردن مخاطب 2 به انتخاب
+2026-05-05 00:51:45,899 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:51:45,899 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:51:47,504 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:51:47,504 - INFO - 🔍 دریافت شماره با ID 2
+2026-05-05 00:51:47,504 - INFO - ✅ شماره 09052278519 یافت شد
+2026-05-05 00:51:57,754 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:51:57,754 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:51:57,754 - INFO - 📝 متن دریافت شد
+2026-05-05 00:51:59,184 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:51:59,282 - INFO - 📤 ارسال text به 09052278519
+2026-05-05 00:51:59,467 - ERROR - ❌ خطا در ارسال به 09052278519: Bad Request: no such group or user
+2026-05-05 00:52:00,684 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1410294763
+2026-05-05 00:52:05,280 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1410294763
+2026-05-05 00:53:51,219 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:53:51,219 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:53:51,220 - INFO - ==================================================
+2026-05-05 00:53:51,220 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:53:51,220 - INFO - ==================================================
+2026-05-05 00:53:51,489 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1410294763
+2026-05-05 00:53:51,673 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 500, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:54:36,454 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:54:38,607 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1410294763
+2026-05-05 00:54:43,721 - INFO - 🔘 کلیک روی دکمه send_manual از کاربر 1410294763
+2026-05-05 00:54:49,227 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1410294763
+2026-05-05 00:54:50,487 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:55:29,209 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:55:29,209 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:55:29,209 - INFO - ==================================================
+2026-05-05 00:55:29,209 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:55:29,209 - INFO - ==================================================
+2026-05-05 00:55:29,577 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:55:30,111 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 493, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:55:44,938 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:55:44,938 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:55:44,939 - INFO - ==================================================
+2026-05-05 00:55:44,939 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:55:44,939 - INFO - ==================================================
+2026-05-05 00:55:45,261 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:55:45,470 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 493, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:55:51,569 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:55:51,570 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:55:51,570 - INFO - ==================================================
+2026-05-05 00:55:51,570 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:55:51,570 - INFO - ==================================================
+2026-05-05 00:55:51,900 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:55:52,073 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 481, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:55:59,764 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:55:59,765 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:55:59,765 - INFO - ==================================================
+2026-05-05 00:55:59,765 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:55:59,765 - INFO - ==================================================
+2026-05-05 00:56:00,284 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:56:00,520 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 467, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:56:06,925 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:56:06,926 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:56:06,927 - INFO - ==================================================
+2026-05-05 00:56:06,928 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:56:06,928 - INFO - ==================================================
+2026-05-05 00:56:07,226 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:56:07,226 - INFO - رفتن به منوی اصلی
+2026-05-05 00:56:07,433 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 350, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:57:28,645 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:57:28,646 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:57:28,648 - INFO - ==================================================
+2026-05-05 00:57:28,648 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:57:28,648 - INFO - ==================================================
+2026-05-05 00:57:28,975 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1410294763
+2026-05-05 00:57:28,975 - INFO - رفتن به منوی اصلی
+2026-05-05 00:57:29,233 - ERROR - ❌ خطا در callback: Bad Request: message to be replied not found
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 350, in on_callback
+    await callback.message.reply(
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/message.py", line 188, in reply
+    return await self.get_bot().send_message(self.chat_id, text, components=components,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/bot.py", line 438, in send_message
+    response = await self._http.send_message(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 155, in request
+    raise error
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/http.py", line 136, in request
+    response.get_error()
+  File "/home/delta/Desktop/Python/myenv/lib/python3.11/site-packages/bale/request/parser.py", line 69, in get_error
+    raise obj(self.description)
+bale.error.BadRequest: Bad Request: message to be replied not found
+2026-05-05 00:57:37,250 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:57:37,251 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:57:37,251 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:57:57,787 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:57:57,787 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:57:59,520 - INFO - 🔘 کلیک روی دکمه add_phone از کاربر 1837159381
+2026-05-05 00:57:59,521 - INFO - درخواست افزودن شماره جدید
+2026-05-05 00:58:02,879 - INFO - وضعیت فعلی کاربر 1837159381: waiting_phone
+2026-05-05 00:58:02,879 - INFO - نوع پیام: has_content=True, has_document=True
+2026-05-05 00:58:02,879 - INFO - 🔄 در حالت waiting_phone
+2026-05-05 00:58:02,880 - INFO - پردازش شماره جدید از کاربر 1837159381: /start
+2026-05-05 00:58:02,880 - WARNING - شماره نامعتبر: /start
+2026-05-05 00:58:04,235 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:58:04,235 - INFO - رفتن به مدیریت مخاطبین
+2026-05-05 00:58:06,359 - INFO - 🔘 کلیک روی دکمه list_phones از کاربر 1837159381
+2026-05-05 00:58:06,359 - INFO - درخواست نمایش لیست مخاطبین
+2026-05-05 00:58:06,359 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:58:06,360 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:58:09,474 - INFO - 🔘 کلیک روی دکمه menu_main از کاربر 1837159381
+2026-05-05 00:58:09,474 - INFO - رفتن به منوی اصلی
+2026-05-05 00:58:11,493 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:58:11,493 - INFO - رفتن به منوی ارسال
+2026-05-05 00:58:14,893 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:58:14,893 - INFO - درخواست ارسال به مخاطبین ذخیره شده
+2026-05-05 00:58:14,893 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:58:14,894 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:58:16,512 - INFO - 🔘 کلیک روی دکمه sel_2 از کاربر 1837159381
+2026-05-05 00:58:16,512 - INFO - اضافه کردن مخاطب 2 به انتخاب
+2026-05-05 00:58:16,512 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:58:16,513 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:58:16,513 - ERROR - ❌ خطا در callback: 'Message' object has no attribute 'edit_text'
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 515, in on_callback
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:58:23,018 - INFO - 🔘 کلیک روی دکمه sel_2 از کاربر 1837159381
+2026-05-05 00:58:23,018 - INFO - حذف مخاطب 2 از انتخاب
+2026-05-05 00:58:23,018 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:58:23,019 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:58:23,019 - ERROR - ❌ خطا در callback: 'Message' object has no attribute 'edit_text'
+Traceback (most recent call last):
+  File "/home/delta/Desktop/Python/Tamrin.py", line 515, in on_callback
+    await callback.message.edit_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'edit_text'
+2026-05-05 00:59:20,182 - INFO - 🔄 در حال اتصال به دیتابیس...
+2026-05-05 00:59:20,183 - INFO - ✅ دیتابیس با موفقیت راه‌اندازی شد
+2026-05-05 00:59:20,183 - INFO - ==================================================
+2026-05-05 00:59:20,183 - INFO - ربات راه‌اندازی شد
+2026-05-05 00:59:20,183 - INFO - ==================================================
+2026-05-05 00:59:20,525 - INFO - 🔘 کلیک روی دکمه sel_2 از کاربر 1837159381
+2026-05-05 00:59:20,525 - INFO - اضافه کردن مخاطب 2 به انتخاب
+2026-05-05 00:59:20,526 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:59:20,526 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:59:24,820 - INFO - 🔘 کلیک روی دکمه sel_2 از کاربر 1837159381
+2026-05-05 00:59:24,820 - INFO - حذف مخاطب 2 از انتخاب
+2026-05-05 00:59:24,820 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:59:24,821 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:59:26,880 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:59:26,880 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:59:28,664 - INFO - 🔘 کلیک روی دکمه menu_contacts از کاربر 1837159381
+2026-05-05 00:59:30,730 - INFO - وضعیت فعلی کاربر 1837159381: None
+2026-05-05 00:59:30,730 - INFO - کاربر 1837159381 ربات را استارت کرد
+2026-05-05 00:59:31,759 - INFO - 🔘 کلیک روی دکمه menu_send از کاربر 1837159381
+2026-05-05 00:59:33,567 - INFO - 🔘 کلیک روی دکمه send_saved از کاربر 1837159381
+2026-05-05 00:59:33,568 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:59:33,568 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:59:36,368 - INFO - 🔘 کلیک روی دکمه sel_2 از کاربر 1837159381
+2026-05-05 00:59:36,368 - INFO - اضافه کردن مخاطب 2 به انتخاب
+2026-05-05 00:59:36,369 - INFO - 🔍 دریافت لیست مخاطبین کاربر 1837159381
+2026-05-05 00:59:36,369 - INFO - 📋 2 مخاطب برای کاربر 1837159381 یافت شد
+2026-05-05 00:59:38,632 - INFO - 🔘 کلیک روی دکمه confirm_send از کاربر 1837159381
+2026-05-05 00:59:38,632 - INFO - 🔍 دریافت شماره با ID 2
+2026-05-05 00:59:38,632 - INFO - ✅ شماره 09052278519 یافت شد
+2026-05-05 00:59:43,099 - INFO - وضعیت فعلی کاربر 1837159381: waiting_media
+2026-05-05 00:59:43,099 - INFO - 🔄 در حالت waiting_media
+2026-05-05 00:59:43,100 - INFO - 📝 متن دریافت شد
+2026-05-05 00:59:44,765 - INFO - 🔘 کلیک روی دکمه confirm_send_final از کاربر 1837159381
+2026-05-05 00:59:44,946 - INFO - 📤 ارسال text به 09052278519
+2026-05-05 00:59:45,144 - ERROR - ❌ خطا در ارسال به 09052278519: Bad Request: no such group or user
